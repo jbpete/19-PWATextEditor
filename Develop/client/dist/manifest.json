@@ -31,12 +31,12 @@
       "type": "image/png"
     }
   ],
-  "name": "Saved Notes",
-  "short_name": "Notes",
+  "name": "Just Another Text Editor",
+  "short_name": "J.A.T.E",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "./",
-  "description": "Never forget your notes!",
+  "description": "Taking notes with Javascript syntax highlighting",
   "background_color": "#225ca3",
   "theme_color": "#225ca3"
 }
